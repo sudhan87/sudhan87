@@ -1,10 +1,11 @@
-### Hi there 👋
+### Hello Folks 👋 I'M ♛ ṩṹḓḩăɴ ♛
    
    🔭 I’m currently working on 'Node Express With MongoDB' , Also For frontend Working in 'Angular 8'.
    
    🌱 I’m currently learning Angular 12.
    
-   📫 How to reach me: **sudharsananrajavadivel@gmail.com** (contact me If needed).
+   📫 How to reach me:  ![image](https://user-images.githubusercontent.com/42274613/182121635-2eb3aa59-dc89-41d0-aec2-fa128a5597d5.png)
+ To **sudharsananrajavadivel@gmail.com** (contact me If needed).
    
    ⚡ Fun fact: I love to watch movies and Hearing audio books.
    
